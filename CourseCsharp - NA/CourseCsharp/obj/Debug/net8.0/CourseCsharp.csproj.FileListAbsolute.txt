@@ -1,0 +1,14 @@
+C:\Users\bruno.ruiz\Desktop\CourseCsharp\CourseCsharp\bin\Debug\net8.0\CourseCsharp.exe
+C:\Users\bruno.ruiz\Desktop\CourseCsharp\CourseCsharp\bin\Debug\net8.0\CourseCsharp.deps.json
+C:\Users\bruno.ruiz\Desktop\CourseCsharp\CourseCsharp\bin\Debug\net8.0\CourseCsharp.runtimeconfig.json
+C:\Users\bruno.ruiz\Desktop\CourseCsharp\CourseCsharp\bin\Debug\net8.0\CourseCsharp.dll
+C:\Users\bruno.ruiz\Desktop\CourseCsharp\CourseCsharp\bin\Debug\net8.0\CourseCsharp.pdb
+C:\Users\bruno.ruiz\Desktop\CourseCsharp\CourseCsharp\obj\Debug\net8.0\CourseCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno.ruiz\Desktop\CourseCsharp\CourseCsharp\obj\Debug\net8.0\CourseCsharp.AssemblyInfoInputs.cache
+C:\Users\bruno.ruiz\Desktop\CourseCsharp\CourseCsharp\obj\Debug\net8.0\CourseCsharp.AssemblyInfo.cs
+C:\Users\bruno.ruiz\Desktop\CourseCsharp\CourseCsharp\obj\Debug\net8.0\CourseCsharp.csproj.CoreCompileInputs.cache
+C:\Users\bruno.ruiz\Desktop\CourseCsharp\CourseCsharp\obj\Debug\net8.0\CourseCsharp.dll
+C:\Users\bruno.ruiz\Desktop\CourseCsharp\CourseCsharp\obj\Debug\net8.0\refint\CourseCsharp.dll
+C:\Users\bruno.ruiz\Desktop\CourseCsharp\CourseCsharp\obj\Debug\net8.0\CourseCsharp.pdb
+C:\Users\bruno.ruiz\Desktop\CourseCsharp\CourseCsharp\obj\Debug\net8.0\CourseCsharp.genruntimeconfig.cache
+C:\Users\bruno.ruiz\Desktop\CourseCsharp\CourseCsharp\obj\Debug\net8.0\ref\CourseCsharp.dll
